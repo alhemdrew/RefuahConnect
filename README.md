@@ -1,5 +1,13 @@
 # Refuah Connect
 
+<div align="center">
+
+<!-- Replace the image links below with actual screenshots or banner images -->
+
+<img src="https://via.placeholder.com/900x300?text=Refuah+Connect" alt="Refuah Connect Banner" />
+
+</div>
+
 **Big things are happening — and this is just the beginning. 🚀**
 
 I’m excited to share a project that has been quietly taking shape with a group of **brilliant and highly motivated students from Codels Institution**.
@@ -41,7 +49,7 @@ This is a **6+ month hands-on program**, focused on real-world collaboration, cl
 This phase is about building the foundation. The bigger vision for Refuah Connect will reveal itself in time.
 
 **GitHub Repository (new):**
-[https://github.com/alhemdrew/RefuahConnect](https://github.com/alhemdrew/RefuahConnect)
+[https://github.com/YourUsername/RefuahConnect](https://github.com/YourUsername/RefuahConnect)
 
 ## 🙌 Gratitude
 
