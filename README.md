@@ -49,7 +49,7 @@ This is a **6+ month hands-on program**, focused on real-world collaboration, cl
 This phase is about building the foundation. The bigger vision for Refuah Connect will reveal itself in time.
 
 **GitHub Repository (new):**
-[https://github.com/YourUsername/RefuahConnect](https://github.com/YourUsername/RefuahConnect)
+[https://github.com/alhemdrew/RefuahConnect](https://github.com/alhemdrew/RefuahConnect)
 
 ## 🙌 Gratitude
 
