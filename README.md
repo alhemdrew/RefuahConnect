@@ -4,7 +4,7 @@
 
 <!-- Replace the image links below with actual screenshots or banner images -->
 
-<img src="https://via.placeholder.com/900x300?text=Refuah+Connect" alt="Refuah Connect Banner" />
+<img src="ru.png" alt="Refuah Connect Banner" />
 
 </div>
 
